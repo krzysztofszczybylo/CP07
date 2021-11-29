@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Processor
+comment1.params=modelName\ clocking\ amountOfCores
+comment1.target=Processor(java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
